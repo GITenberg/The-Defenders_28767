@@ -1,0 +1,47 @@
+_repo: The-Defenders_28767
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Alexander, Ed
+    - Emsh
+    - Emshwiller, Edmund A.
+    - Emsh, Ed
+    - Willer
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dick, Philip K.
+    alias: Dick, Philip Kindred
+    birthdate: 1928
+    deathdate: 1982
+    gutenberg_agent_id: '33399'
+    url: http://www.gutenberg.org/2009/agents/33399
+    wikipedia: http://en.wikipedia.org/wiki/Philip_K._Dick
+description: Prolific science fiction writer Philip K. Dick penned hundreds of short
+  stories, novels, and other pieces over the course of his career. "The Defenders"
+  is a short but spellbinding tale that imagines a dystopian version of America in
+  which the Cold War dispute with the Soviet Union has been fought to a devastating
+  conclusion.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Defenders
+url: http://www.gutenberg.org/ebooks/28767
